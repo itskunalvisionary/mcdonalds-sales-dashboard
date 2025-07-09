@@ -16,14 +16,22 @@ Optimize payment operations and reduce bottlenecks in sales processes.
 Improve performance in low-sales locations and time slots.
 
 🔍 Project Objectives
+
 ✅ Clean and prepare 2 years of raw restaurant sales data (~5,000 rows)
+
 ✅ Perform data transformations using Power Query & Excel formulas
+
 ✅ Build a dynamic data model with Power Pivot relationships
+
 ✅ Create an interactive Excel Dashboard with slicers, KPIs, and pivot charts
+
 ✅ Generate business insights & recommendations for better operations
 
+
 🛠️ Tools & Skills Used
+
 Tool / Skill	Purpose
+
 Microsoft Excel	Main analytics & visualization tool
 
 Power Query	Data cleaning & ETL automation
@@ -42,10 +50,15 @@ Data Cleaning	Handling nulls, duplicates, incorrect formats
 
 Business Reporting	Insights, trends, and KPI storytelling
 
+
 📊 Key Features of the Dashboard
+
 ✔️ Clean & formatted raw data (Power Query)
+
 ✔️ Automated ETL pipelines for repeatable analysis
+
 ✔️ Fully dynamic Pivot Tables & Slicers for drilldown
+
 ✔️ KPI Cards for:
 
 Total Revenue
@@ -53,6 +66,7 @@ Total Revenue
 Average Order Value
 
 Total Orders
+
 ✔️ Charts for:
 
 Monthly Sales Trends
@@ -62,6 +76,10 @@ Product Category Sales
 Sales by City & Country
 
 Payment Mode Shares
+
 ✔️ Staff productivity analysis by hour and day
+
 ✔️ Peak sales hours and sales gaps visualized
+
 ✔️ Business insights written directly in the dashboard sheet
+
