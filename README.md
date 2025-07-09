@@ -25,13 +25,21 @@ Improve performance in low-sales locations and time slots.
 🛠️ Tools & Skills Used
 Tool / Skill	Purpose
 Microsoft Excel	Main analytics & visualization tool
+
 Power Query	Data cleaning & ETL automation
+
 Power Pivot	Data modeling & relationship management
+
 Pivot Tables	Summary reports & dynamic calculations
+
 Slicers & Timelines	Interactive filters for users
+
 Advanced Excel Formulas (SUMIFS, IF, XLOOKUP)	Business logic and calculations
+
 Data Visualization	Bar, Line, Pie, and Column charts
+
 Data Cleaning	Handling nulls, duplicates, incorrect formats
+
 Business Reporting	Insights, trends, and KPI storytelling
 
 📊 Key Features of the Dashboard
